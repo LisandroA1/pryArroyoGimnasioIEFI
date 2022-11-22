@@ -1,0 +1,13 @@
+Listado de clientes por actividad
+
+
+DNI;NOMBRE_APELLIDO;DIRECCION;SALDO
+42327769;Georgina Peralta;El chaco 123;12000
+
+22542465;Fernando Iglesias;Iglesia;15000
+
+42327777;Francisco Serafini;Atalaya;30000
+
+42326666;Francisco Serafini;San Vicente;100000
+
+Cantidad de Clientes:;;4
